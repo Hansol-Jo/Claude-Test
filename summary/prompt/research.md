@@ -1,6 +1,3 @@
-{prompt-path} : resr
-{skill-name} : trend
-
 [목표]
 '{prompt-path}' 프롬프트를 참조하여 프로젝트 스콥으로 '{skill-name}' 스킬 제작
 [역할]
