@@ -1,4 +1,4 @@
-{prompt-path}
+{prompt-path} : resr
 {skill-name} : trend
 
 [목표]
